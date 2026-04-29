@@ -1,0 +1,51 @@
+{
+  "name": "Naman Gabani - Portfolio",
+  "short_name": "Naman Gabani",
+  "description": "Systems Developer & Cloud Architect based in Toronto, Canada. Specialized in cloud infrastructure, distributed systems, and full-stack development.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#030712",
+  "theme_color": "#8b5cf6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/favicon.ico",
+      "sizes": "72x72 96x96 128x128 256x256",
+      "type": "image/x-icon"
+    }
+  ],
+  "categories": [
+    "business",
+    "productivity",
+    "portfolio"
+  ],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "View Projects",
+      "short_name": "Projects",
+      "description": "View my technical projects",
+      "url": "/#projects",
+      "icons": []
+    },
+    {
+      "name": "Contact Me",
+      "short_name": "Contact",
+      "description": "Get in touch",
+      "url": "/#contact",
+      "icons": []
+    },
+    {
+      "name": "Read Blog",
+      "short_name": "Blog",
+      "description": "Read my latest articles",
+      "url": "/blog",
+      "icons": []
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+# Robots.txt for Naman Gabani Portfolio
+# https://gabaninaman.github.io
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://gabaninaman.github.io/sitemap.xml

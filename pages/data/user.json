@@ -1,0 +1,289 @@
+{
+  "name": "Naman Gabani",
+  "title": "Desktop Support Engineer",
+  "location": "Calgary",
+  "email": "gabaninaman5@gmail.com",
+  "phone": "+1-368-299-5160",
+  "bio": [
+    "IT Customer Support Analyst (L2) with 2+ years of hands-on deskside and onsite support experience in enterprise environments.",
+    "Experienced in troubleshooting hardware, software, networking, Microsoft 365, and Active Directory issues for 50+ end-users while maintaining SLA targets."
+  ],
+  "skills": {
+    "systems": [
+      "Windows 10/11",
+      "Windows Server",
+      "Active Directory",
+      "Microsoft 365",
+      "ITIL Processes"
+    ],
+    "languages": [
+      "Bash",
+      "PowerShell (basic scripting)"
+    ],
+    "backend": [
+      "ServiceNow (ITSM)",
+      "Incident Management",
+      "Request Fulfillment"
+    ],
+    "databases": [
+      "Basic IT Asset Tracking Systems",
+      "CMDB (ServiceNow)"
+    ],
+    "cloud": [
+      "Microsoft Azure (AZ-900)",
+      "Microsoft 365 Admin Center"
+    ],
+    "devops": [
+      "IT Operations Support",
+      "System Deployment & Imaging",
+      "IT Asset Lifecycle Management"
+    ],
+    "tools": [
+      "ServiceNow",
+      "Jira",
+      "Microsoft Teams",
+      "VPN Tools",
+      "Remote Support Tools",
+      "Printer & AV Systems"
+    ]
+  },
+  "links": {
+    "linkedin": "https://linkedin.com/in/naman-gabani",
+    "github": "https://github.com/gabaninaman",
+    "email": "mailto:gabaninaman5@gmail.com"
+  },
+  "resume_link": "./sg_resume.pdf",
+  "coverletter_link": "./sg_cover_letter.pdf",
+  "experience": [
+    {
+      "title": "Desktop Support Engineer (Contract)",
+      "company": "Wipro",
+      "date": "Dec 2025 - Apr 2026",
+      "description": [
+        "Delivered onsite deskside support for 50+ end-users, resolving 20–25 technical incidents daily.",
+        "Supported Windows 10/11, Microsoft 365, LAN/Wi-Fi/VPN connectivity, and hardware troubleshooting with 95%+ SLA compliance.",
+        "Managed incidents using ServiceNow including logging, prioritization, and escalation.",
+        "Performed device deployment, imaging, configuration, and hardware replacement.",
+        "Supported Microsoft Teams Rooms and AV systems ensuring meeting readiness.",
+        "Conducted root cause analysis, reducing recurring incidents by ~20%."
+      ]
+    },
+    {
+      "title": "HelpDesk Support / Deskside Coordinator",
+      "company": "Orizon Energy",
+      "date": "May 2024 - Oct 2025",
+      "description": [
+        "Managed 25–30+ daily service requests across desktops, laptops, and user accounts.",
+        "Provided onsite and remote IT support in a fast-paced enterprise environment.",
+        "Handled onboarding/offboarding including device setup and account provisioning for 10+ users weekly.",
+        "Supported Active Directory user access, permissions, and troubleshooting.",
+        "Tracked IT assets and contributed to internal knowledge base documentation.",
+        "Coordinated with L2/L3 teams for escalation and issue resolution."
+      ]
+    },
+    {
+      "title": "IT Support Technician Intern",
+      "company": "SAIT",
+      "date": "Sep 2024 - Jan 2025",
+      "description": [
+        "Provided L1 support for students and staff, resolving 15–20 tickets daily using ServiceNow.",
+        "Performed Active Directory tasks including password resets and account unlocks.",
+        "Supported Microsoft 365 applications including Outlook and Teams troubleshooting.",
+        "Assisted users with VPN and remote access issues.",
+        "Documented incidents and improved knowledge base accuracy."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "slug": "enterprise-network",
+      "title": "Enterprise Network Infrastructure Setup",
+      "subtitle": "Windows Server and Active Directory lab environment",
+      "desc1": "Designed and deployed a simulated enterprise network infrastructure.",
+      "desc2": "Implemented Active Directory, DNS, DHCP, and workstation deployment in a multi-user environment.",
+      "description": [
+        "Built a full enterprise-style network environment using Windows Server.",
+        "Configured Active Directory for user and group management.",
+        "Set up DNS and DHCP services for internal network operations.",
+        "Performed workstation imaging and troubleshooting in a simulated enterprise setup."
+      ],
+      "features": [
+        "Active Directory configuration",
+        "DNS/DHCP setup",
+        "Workstation deployment",
+        "Network troubleshooting simulation"
+      ],
+      "tech": [
+        "Windows Server",
+        "Active Directory",
+        "DNS",
+        "DHCP",
+        "Networking"
+      ],
+      "category": "IT Infrastructure",
+      "code": "",
+      "live": "",
+      "year": "2025"
+    },
+    {
+      "slug": "cloud-migration",
+      "title": "Cloud Migration Strategy & Implementation",
+      "subtitle": "Hybrid migration to Microsoft 365 and Azure AD",
+      "desc1": "Designed a cloud migration strategy for enterprise environment.",
+      "desc2": "Supported identity and access migration to Microsoft 365 and Azure AD.",
+      "description": [
+        "Planned and supported migration from on-prem systems to Microsoft 365.",
+        "Worked with Azure AD (Entra ID) for identity management and authentication.",
+        "Troubleshot Outlook, Teams, and login-related issues post-migration.",
+        "Validated user access and system functionality after migration."
+      ],
+      "features": [
+        "Azure AD integration",
+        "Microsoft 365 migration",
+        "SSO troubleshooting",
+        "Identity management"
+      ],
+      "tech": [
+        "Microsoft 365",
+        "Azure AD",
+        "Entra ID",
+        "Cloud Migration"
+      ],
+      "category": "Cloud & Identity",
+      "code": "",
+      "live": "",
+      "year": "2025"
+    },
+    {
+      "slug": "servicenow-itsm",
+      "title": "IT Asset & Service Management (ServiceNow)",
+      "subtitle": "ITIL-based CMDB and incident workflow simulation",
+      "desc1": "Configured ITSM workflows and CMDB in ServiceNow.",
+      "desc2": "Simulated asset lifecycle and incident management processes.",
+      "description": [
+        "Configured CMDB for IT asset tracking and management.",
+        "Simulated incident and request workflows aligned with ITIL.",
+        "Managed asset lifecycle from provisioning to retirement.",
+        "Created reports and dashboards for IT service tracking."
+      ],
+      "features": [
+        "CMDB configuration",
+        "ITIL workflow simulation",
+        "Asset lifecycle management",
+        "Reporting dashboards"
+      ],
+      "tech": [
+        "ServiceNow",
+        "ITSM",
+        "CMDB",
+        "ITIL"
+      ],
+      "category": "IT Service Management",
+      "code": "",
+      "live": "",
+      "year": "2025"
+    },
+    {
+      "slug": "end-user-support-lab",
+      "title": "End-User Support & Troubleshooting Lab",
+      "subtitle": "Windows, M365, and network troubleshooting environment",
+      "desc1": "Simulated real-world IT support scenarios for end-users.",
+      "desc2": "Focused on troubleshooting Windows, M365, and network issues.",
+      "description": [
+        "Simulated helpdesk environment for resolving user IT issues.",
+        "Troubleshot Windows login, performance, and software issues.",
+        "Resolved Microsoft 365 issues including Outlook and Teams.",
+        "Handled VPN and network connectivity troubleshooting scenarios."
+      ],
+      "features": [
+        "Helpdesk simulation",
+        "Windows troubleshooting",
+        "M365 support scenarios",
+        "VPN/network troubleshooting"
+      ],
+      "tech": [
+        "Windows 10/11",
+        "Microsoft 365",
+        "Networking",
+        "VPN"
+      ],
+      "category": "IT Support",
+      "code": "",
+      "live": "",
+      "year": "2025"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Diploma in Information Technology Services (GPA: 3.83)",
+      "institution": "Southern Alberta Institute of Technology (SAIT)",
+      "date": "January 2024 - August 2025",
+      "courses": [
+        "Enterprise Network Design",
+        "Server Administration",
+        "Virtualization",
+        "IT Security",
+        "Cloud Computing (Azure)",
+        "ServiceNow ITSM"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "ITIL 4 Foundation",
+      "issuer": "AXELOS",
+      "date": ""
+    },
+    {
+      "name": "CompTIA A+",
+      "issuer": "CompTIA",
+      "date": ""
+    },
+    {
+      "name": "Cisco Certified Network Associate (CCNA)",
+      "issuer": "Cisco",
+      "date": ""
+    },
+    {
+      "name": "Microsoft Azure Fundamentals (AZ-900)",
+      "issuer": "Microsoft",
+      "date": ""
+    },
+    {
+      "name": "ServiceNow ITSM Fundamentals",
+      "issuer": "ServiceNow",
+      "date": ""
+    },
+    {
+      "name": "BMC Helix ITSM Fundamentals",
+      "issuer": "BMC",
+      "date": ""
+    }
+  ],
+  "achievements": {
+    "github": {
+      "username": "gabaninaman",
+      "profileUrl": "https://github.com/gabaninaman",
+      "stats": {
+        "repositories": "30+",
+        "contributions": "500+",
+        "stars": "50+",
+        "followers": "100+"
+      }
+    },
+    "stackoverflow": {
+      "userId": "19144656",
+      "profileUrl": "https://stackoverflow.com/users/19144656/smit-gabani",
+      "stats": {
+        "reputation": "500+",
+        "answers": "30+",
+        "reached": "50K+",
+        "badges": {
+          "gold": 0,
+          "silver": 5,
+          "bronze": 15
+        }
+      }
+    }
+  }
+}
