@@ -222,7 +222,7 @@ export default function Home({ githubStats, stackoverflowStats }) {
           name="google-site-verification"
           content="5btffQ_j0ZyetQfVnTfJ0HtTRQXYxj3fwJFJTkpSOz8"
         />
-        <title>Naman Gabani - Systems Developer &amp; Cloud Architect | Toronto, Canada</title>
+        <title>Naman Gabani - Desktop Support Engineer | Calgary, Canada</title>
         <meta
           name="description"
           content={`${user.bio[0]} ${user.bio[1]} Based in ${
