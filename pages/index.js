@@ -647,6 +647,7 @@ export default function Home({ githubStats, stackoverflowStats }) {
                       </h3>
                       {user.education.map((edu, index) => (
                         <div key={index} className="text-gray-400">
+                        <></>
                           <span className="text-white">{edu.degree}</span>
                           <span className="text-gray-500">
                             {" "}

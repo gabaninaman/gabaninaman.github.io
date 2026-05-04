@@ -1,98 +1,90 @@
 {
   "name": "Naman Gabani",
-  "title": "Desktop Support Engineer",
+  "title": "IT Support Analyst",
   "location": "Calgary",
-  "email": "gabaninaman5@gmail.com",
+  "email": "namangabani5@gmail.com",
   "phone": "+1-368-299-5160",
   "bio": [
-    "IT Customer Support Analyst (L2) with 2+ years of hands-on deskside and onsite support experience in enterprise environments.",
+    "IT Support Analyst with 1+ years of hands-on deskside and onsite support experience in enterprise environments. ",
     "Experienced in troubleshooting hardware, software, networking, Microsoft 365, and Active Directory issues for 50+ end-users while maintaining SLA targets."
   ],
   "skills": {
-    "systems": [
-      "Windows 10/11",
-      "Windows Server",
-      "Active Directory",
-      "Microsoft 365",
-      "ITIL Processes"
-    ],
-    "languages": [
-      "Bash",
-      "PowerShell (basic scripting)"
-    ],
-    "backend": [
-      "ServiceNow (ITSM)",
-      "Incident Management",
-      "Request Fulfillment"
-    ],
-    "databases": [
-      "Basic IT Asset Tracking Systems",
-      "CMDB (ServiceNow)"
-    ],
-    "cloud": [
-      "Microsoft Azure (AZ-900)",
-      "Microsoft 365 Admin Center"
-    ],
-    "devops": [
-      "IT Operations Support",
-      "System Deployment & Imaging",
-      "IT Asset Lifecycle Management"
-    ],
-    "tools": [
-      "ServiceNow",
-      "Jira",
-      "Microsoft Teams",
-      "VPN Tools",
-      "Remote Support Tools",
-      "Printer & AV Systems"
-    ]
+    "Operating Systems": [
+    "Windows Server",
+    "Windows 10/11",  
+    "RedHat Linux",
+    "MacOS"
+  ],
+  "identity & M365": [
+    "Azure Active Directory",
+    "Microsoft 365",
+    "Microsoft 365 Admin Center",
+    "Exchange Onlline",
+    "User and Access Management",
+    "Group Policy"
+  ],
+  "ITSM Tools": [
+    "ServiceNow",
+    "Jira",
+    "BMC Helix"
+  ],
+  "Networking & Remote Support": [
+    "TCP/IP, DHCP,DNS",
+    "VPN",
+    "LAN/Wi-Fi troubleshooting",
+    "RDP & RMM tools",
+    "Quick Assist"
+  ],
+  "Collaboration & AV": [
+    "Microsoft Teams",
+    "Teams Rooms",
+    "Webex",
+    "Zoom"
+  ],
+  "Hardware Endpoints": [
+    "Desktops & Laptops",
+    "Printers",
+    "Peripherals",
+    "Mobile Devices (iOS/Tablets)"
+  ],
+  "Scripting": [
+    "PowerShell (Basic)",
+    "Bash"
+  ]
   },
   "links": {
-    "linkedin": "https://linkedin.com/in/naman-gabani",
+    "linkedin": "https://www.linkedin.com/in/namangabani05/",
     "github": "https://github.com/gabaninaman",
     "email": "mailto:gabaninaman5@gmail.com"
   },
-  "resume_link": "./sg_resume.pdf",
+  "resume_link": "./ng_resume.pdf",
   "coverletter_link": "./sg_cover_letter.pdf",
   "experience": [
     {
       "title": "Desktop Support Engineer (Contract)",
-      "company": "Wipro",
-      "date": "Dec 2025 - Apr 2026",
+      "company": "Sky System",
+      "date": "Dec 2025 - Present",
       "description": [
-        "Delivered onsite deskside support for 50+ end-users, resolving 20–25 technical incidents daily.",
-        "Supported Windows 10/11, Microsoft 365, LAN/Wi-Fi/VPN connectivity, and hardware troubleshooting with 95%+ SLA compliance.",
-        "Managed incidents using ServiceNow including logging, prioritization, and escalation.",
-        "Performed device deployment, imaging, configuration, and hardware replacement.",
-        "Supported Microsoft Teams Rooms and AV systems ensuring meeting readiness.",
-        "Conducted root cause analysis, reducing recurring incidents by ~20%."
+        "Delivered onsite L1 desktop, AV, and network support in enterprise environments supporting Wipro/Microsoft end users and client operations.",
+        "Resolved urgent and high-priority service tickets within SLA timelines using ServiceNow.",
+        "Troubleshot Windows 10/11, Microsoft 365, VPN, LAN/Wi-Fi, and hardware issues.",
+        "Deployed and configured endpoint devices (imaging, provisioning, user setup).",
+        "Supported Teams Rooms and conferencing systems (Webex, Zoom) for meeting readiness."
       ]
     },
     {
-      "title": "HelpDesk Support / Deskside Coordinator",
+      "title": "IT & Operations Coordinator",
       "company": "Orizon Energy",
       "date": "May 2024 - Oct 2025",
       "description": [
-        "Managed 25–30+ daily service requests across desktops, laptops, and user accounts.",
-        "Provided onsite and remote IT support in a fast-paced enterprise environment.",
+        "Managed 10+ daily service requests across desktops, laptops, and user accounts.",
         "Handled onboarding/offboarding including device setup and account provisioning for 10+ users weekly.",
         "Supported Active Directory user access, permissions, and troubleshooting.",
         "Tracked IT assets and contributed to internal knowledge base documentation.",
         "Coordinated with L2/L3 teams for escalation and issue resolution."
       ]
-    },
-    {
-      "title": "IT Support Technician Intern",
-      "company": "SAIT",
-      "date": "Sep 2024 - Jan 2025",
-      "description": [
-        "Provided L1 support for students and staff, resolving 15–20 tickets daily using ServiceNow.",
-        "Performed Active Directory tasks including password resets and account unlocks.",
-        "Supported Microsoft 365 applications including Outlook and Teams troubleshooting.",
-        "Assisted users with VPN and remote access issues.",
-        "Documented incidents and improved knowledge base accuracy."
-      ]
     }
+    
   ],
   "projects": [
     {
@@ -215,7 +207,7 @@
   ],
   "education": [
     {
-      "degree": "Diploma in Information Technology Services (GPA: 3.83)",
+      "degree": "Diploma in Information Technology Services (GPA: 3.83/4.0)",
       "institution": "Southern Alberta Institute of Technology (SAIT)",
       "date": "January 2024 - August 2025",
       "courses": [
@@ -230,8 +222,8 @@
   ],
   "certifications": [
     {
-      "name": "ITIL 4 Foundation",
-      "issuer": "AXELOS",
+      "name": "Cisco Certified Network Associate (CCNA)",
+      "issuer": "Cisco",
       "date": ""
     },
     {
@@ -240,8 +232,8 @@
       "date": ""
     },
     {
-      "name": "Cisco Certified Network Associate (CCNA)",
-      "issuer": "Cisco",
+      "name": "ITILv4 Foundations",
+      "issuer": "AXELOS",
       "date": ""
     },
     {
